@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactMaterialUiFormik/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ReactMaterialUiFormik/static/js/main.a66a4784.chunk.js",
+    "main.js.map": "/ReactMaterialUiFormik/static/js/main.a66a4784.chunk.js.map",
+    "runtime-main.js": "/ReactMaterialUiFormik/static/js/runtime-main.3fb1ae5c.js",
+    "runtime-main.js.map": "/ReactMaterialUiFormik/static/js/runtime-main.3fb1ae5c.js.map",
+    "static/js/2.de090c7a.chunk.js": "/ReactMaterialUiFormik/static/js/2.de090c7a.chunk.js",
+    "static/js/2.de090c7a.chunk.js.map": "/ReactMaterialUiFormik/static/js/2.de090c7a.chunk.js.map",
+    "static/js/3.9624bc39.chunk.js": "/ReactMaterialUiFormik/static/js/3.9624bc39.chunk.js",
+    "static/js/3.9624bc39.chunk.js.map": "/ReactMaterialUiFormik/static/js/3.9624bc39.chunk.js.map",
+    "index.html": "/ReactMaterialUiFormik/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/ReactMaterialUiFormik/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.de090c7a.chunk.js.LICENSE.txt": "/ReactMaterialUiFormik/static/js/2.de090c7a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fb1ae5c.js",
+    "static/js/2.de090c7a.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.a66a4784.chunk.js"
+  ]
+}
