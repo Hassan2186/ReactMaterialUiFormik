@@ -39,18 +39,7 @@ const validationSchema = Yup.object().shape({
     select: Yup.string().required("Must select!"),
     howMany: Yup.array().min(1, "Must chose!").required(),
     comments: Yup.string().required('Required'),
-    radio: Yup.string().required('Must chose!'),
-    // comments: Yup.mixed().when('howMany', {
-    //     is: 'High',
-    //     then: Yup.string().required().min(20).max(100),
-    //     otherwise: Yup.string().min(20).max(100)
-    // }),
-    // comments: Yup.mixed().when('howMany', {
-    //     is: (howMany) => howMany.find(ir => ir === 'High'),
-    //     then: Yup.string().required().min(20).max(100),
-    //     otherwise: Yup.string().min(20).max(100)
-    // }),
-
+    radio: Yup.string().required('Must chose!')
     })
     const onSubmit = (values, formikHelpers) => {
         console.log('values', values)
